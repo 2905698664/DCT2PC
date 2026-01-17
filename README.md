@@ -1,4 +1,4 @@
-![F1](https://github.com/user-attachments/assets/b4de5832-65d3-4137-90e5-a9cd88adb0db)# DCT2PC
+# DCT2PC
 A systematic calibration transfer & quantification method for NIR spectroscopy. DCT2PC extracts key principal components via SVD, and ensemble ELM builds robust regression models for cross-instrument quantitative analysis. Validated on corn/tobacco/pharmaceutical datasets, outperforming TEAM with lower RMSEP.
 
 ## 📖 Introduction
