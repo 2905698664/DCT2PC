@@ -13,7 +13,10 @@ DCT2PC achieve robust cross-instrument calibration transfer：
 
 ## 📊 Method & Results
 ### 1. Core Workflow
-![F1](https://github.com/user-attachments/assets/0be5e241-b86e-471c-a3ca-f921b23f5b8e)
+
+<div align="center">
+<img src="https://github.com/2905698664/DCT2PC/blob/main/F1.jpg" width=603 />
+</div>
 
 *Figure 1: The core workflow of DCT2PC method (from DCT2PC research paper)*
 
